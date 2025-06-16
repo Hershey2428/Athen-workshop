@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    background-color: cadetblue;
+    margin: 50px;
+    padding: 20px;
+}
+.peacock{
+    width: 200px;
+    height: 200px;
+}
+.yay{
+    background-color:darkmagenta;
+    margin: 50px;
+    padding: 20px;
+}
